@@ -1,11 +1,11 @@
 python-clewareampel
 ===================
 
-[![version](https://pypip.in/v/clewareampel/badge.png?style=flat)](https://pypi.python.org/pypi/clewareampel)
-[![Supported Python versions](https://pypip.in/py_versions/clewareampel/badge.svg?style=flat)](https://pypi.python.org/pypi/clewareampel/)
-[![format](https://pypip.in/format/clewareampel/badge.png?style=flat)](https://pypi.python.org/pypi/clewareampel)
-[![downloads](https://pypip.in/d/clewareampel/badge.png?style=flat)](https://pypi.python.org/pypi/clewareampel)
-[![license](https://pypip.in/license/clewareampel/badge.png?style=flat)](https://pypi.python.org/pypi/clewareampel)
+[![version](https://img.shields.io/pypi/v/clewareampel.svg?style=flat)](https://pypi.python.org/pypi/clewareampel)
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/clewareampel.svg?style=flat)](https://pypi.python.org/pypi/clewareampel/)
+[![format](https://img.shields.io/pypi/format/clewareampel.svg?style=flat)](https://pypi.python.org/pypi/clewareampel)
+[![downloads](https://img.shields.io/pypi/dm/clewareampel.svg?style=flat)](https://pypi.python.org/pypi/clewareampel)
+[![license](https://img.shields.io/pypi/l/clewareampel.svg?style=flat)](https://pypi.python.org/pypi/clewareampel)
 
 Control the Cleware USB Ampel (traffic lights) with Python.
 
